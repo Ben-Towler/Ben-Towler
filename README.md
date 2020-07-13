@@ -2,6 +2,14 @@
 
 I'm a Full Stack Software Engineer who is passionate about developing engaging, performant and test driven software applications. With a decade of agency experience, I have a proven background in delivering high quality projects in a time critical environment. 
 
+### Favourite Technologies
+* TypeScript
+* React
+* Express
+* GraphQL
+* Jest & Enzyme
+* HTML/CSS/SCSS (BEM/OOCSS/ACSS/SMACCS)
+
 ### Currently working on:
 #### Senja (Launch fall 2020)
 Senja aims simplify project management for small development teams. Users can easily track project progress, create tasks and share projects with team members. The front-end has been developed with React with Jest testing. The server has been built with Express and we use a MongoDB with Mongoose ORM.
