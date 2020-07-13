@@ -8,7 +8,7 @@ I'm a Full Stack Software Engineer who is passionate about developing performant
 * Express
 * GraphQL
 * Jest & Enzyme
-* HTML/CSS/SCSS (BEM/OOCSS/ACSS/SMACCS/WCAG Compliance)
+* HTML/CSS/SCSS (WCAG Compliance, BEM/OOCSS/SMACCS)
 
 ### Currently working on:
 #### Senja (Launch fall 2020)
@@ -16,10 +16,12 @@ Senja aims simplify project management for small development teams. Users can ea
 
 The site is fully responsive, SEO optimised and includes a dark mode! Secure login is handled with JWT, Bcrypt and PassPort.
 
-Find out more - https://github.com/Ben-Towler/Senja. Currently looking for collaborators.
+Find out more - https://github.com/Ben-Towler/Senja. 
+
+Currently looking for collaborators.
 
 ### I'm currently learning
-Improving my knowledge of GraphQL, Redux and starting French.
+Improving my knowledge of TypeScript, Redux and starting Deno & French.
 
 ### Live Projects
 A few projects I've worked on recently. I was responsible for wireframing and the full development of each project.
