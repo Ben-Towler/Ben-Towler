@@ -14,7 +14,7 @@ I'm a Full Stack Software Engineer who is passionate about developing performant
 #### Senja (Launch fall 2020)
 Senja aims simplify project management for small development teams. Users can easily track project progress, create tasks and share projects with team members. The front-end has been developed with React with Jest testing. The server has been built with Express and we use a MongoDB with Mongoose ORM.
 
-The site is fully responsive, SEO optimised and includes a dark mode! Secure login is handled with JWT, Bcrypt and PassPort.
+The site is fully responsive, SEO optimised and includes a dark mode. Secure login is handled with JWT, Bcrypt and PassPort.
 
 Find out more - https://github.com/Ben-Towler/Senja. 
 
