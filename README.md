@@ -21,7 +21,7 @@ Find out more - https://github.com/Ben-Towler/Senja.
 Currently looking for collaborators.
 
 ### I'm currently learning
-Improving my knowledge of TypeScript, Redux and Ionic.
+Ionic framework & Redux Saga
 
 ### Live Projects
 A few projects I've worked on recently. I was responsible for wireframing and the full development of each project.
