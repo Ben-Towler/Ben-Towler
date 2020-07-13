@@ -1,6 +1,6 @@
 ### Hey, I'm Ben Towler 👋
 
-I'm a Full Stack Software Engineer who is passionate about developing engaging, performant and test driven software applications. With a decade of agency experience, I have a proven background in delivering high quality projects in a time critical environment. 
+I'm a Full Stack Software Engineer who is passionate about developing performant, accessible and test driven software applications. With a decade of agency experience, I have a proven background in delivering high quality projects in a time critical environment. 
 
 ### Favourite Technologies
 * TypeScript
@@ -8,7 +8,7 @@ I'm a Full Stack Software Engineer who is passionate about developing engaging, 
 * Express
 * GraphQL
 * Jest & Enzyme
-* HTML/CSS/SCSS (BEM/OOCSS/ACSS/SMACCS)
+* HTML/CSS/SCSS (BEM/OOCSS/ACSS/SMACCS/WCAG Compliance)
 
 ### Currently working on:
 #### Senja (Launch fall 2020)
