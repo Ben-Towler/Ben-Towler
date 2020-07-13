@@ -9,6 +9,7 @@ I'm a Full Stack Software Engineer who is passionate about developing performant
 * GraphQL
 * Jest & Enzyme
 * HTML/CSS/SCSS (WCAG Compliance, BEM/OOCSS/SMACCS)
+* Ionic
 
 ### Currently working on:
 #### Senja (Launch fall 2020)
