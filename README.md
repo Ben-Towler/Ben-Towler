@@ -1,6 +1,6 @@
 ### Hey, I'm Ben Towler 👋
 
-I'm a Full Stack Software Engineer who is passionate about developing engaging, performant and test driven software applications. With over 8 years agency experience, I have a proven background in delivering high quality projects in a time critical environment. 
+I'm a Full Stack Software Engineer who is passionate about developing engaging, performant and test driven software applications. With a decade of agency experience, I have a proven background in delivering high quality projects in a time critical environment. 
 
 ### Currently working on:
 #### Senja (Launch fall 2020)
