@@ -1,4 +1,4 @@
-### Hey, I'm Ben Towler 👋
+### Hey, I'm Ben 👋
 
 I'm a Full Stack Software Engineer who is passionate about developing performant, accessible and test driven software applications. With a decade of agency experience, I have a proven background in delivering high quality projects in a time critical environment. 
 
