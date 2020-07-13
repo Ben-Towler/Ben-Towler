@@ -15,14 +15,14 @@ Improving my knowledge of GraphQL, Redux and starting French.
 
 ### Live Projects
 A few projects I've worked on recently. I was responsible for wireframing and the full development of each project.
-Christopher Trigg - https://christophertrigg.co.uk/
-Honeymoon Dreams - https://www.honeymoondreams.co.uk/
-The Jam House - https://thejamhouse.com/birmingham/
-A Wilderness Way - https://www.awwltd.com/
-Sirus Automotive - https://sirusautomotive.co.uk/
-Busy Bees Benefits - https://busybeesbenefits.com/
-Finance 4 Businesss - https://www.f4b.biz/
-Walker Doble - https://www.walkerdoble.com
+* Christopher Trigg - https://christophertrigg.co.uk/
+* Honeymoon Dreams - https://www.honeymoondreams.co.uk/
+* The Jam House - https://thejamhouse.com/birmingham/
+* A Wilderness Way - https://www.awwltd.com/
+* Sirus Automotive - https://sirusautomotive.co.uk/
+* Busy Bees Benefits - https://busybeesbenefits.com/
+* Finance 4 Businesss - https://www.f4b.biz/
+* Walker Doble - https://www.walkerdoble.com
 
 ### How to reach me
 You can contact me via any of ways below:
