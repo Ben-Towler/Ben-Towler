@@ -21,7 +21,7 @@ Find out more - https://github.com/Ben-Towler/Senja.
 Currently looking for collaborators.
 
 ### I'm currently learning
-Ionic framework & Redux Saga
+Kotlin, Jest
 
 ### Live Projects
 A few projects I've worked on recently. I was responsible for wireframing and the full development of each project.
