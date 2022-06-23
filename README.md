@@ -1,6 +1,6 @@
 ### Hey, I'm Ben 👋
 
-I'm a Full Stack Software Engineer who is passionate about developing performant, accessible and test driven software applications. With a decade of agency experience, I have a proven background in delivering high quality projects in a time critical environment. 
+I'm a Frontend Engineer who is passionate about developing performant, accessible and test driven software applications. With experience in both agencies and tech startups, I have a proven background in delivering high quality projects in a time critical environment. 
 
 ### Favourite Technologies
 * TypeScript
@@ -9,30 +9,6 @@ I'm a Full Stack Software Engineer who is passionate about developing performant
 * GraphQL
 * Jest & Enzyme
 * HTML/CSS/SCSS (WCAG Compliance, BEM/OOCSS/SMACCS)
-
-### Currently working on:
-#### Senja (Launch fall 2020)
-Senja aims simplify project management for small development teams. Users can easily track project progress, create tasks and share projects with team members. The front-end has been developed with React with Jest testing. The server has been built with Express and we use a MongoDB with Mongoose ORM.
-
-The site is fully responsive, SEO optimised and includes a dark mode. Secure login is handled with JWT, Bcrypt and PassPort.
-
-Find out more - https://github.com/Ben-Towler/Senja. 
-
-Currently looking for collaborators.
-
-### I'm currently learning
-Kotlin, Jest
-
-### Live Projects
-A few projects I've worked on recently. I was responsible for wireframing and the full development of each project.
-* Christopher Trigg - https://christophertrigg.co.uk/
-* Honeymoon Dreams - https://www.honeymoondreams.co.uk/
-* The Jam House - https://thejamhouse.com/birmingham/
-* A Wilderness Way - https://www.awwltd.com/
-* Sirus Automotive - https://sirusautomotive.co.uk/
-* Busy Bees Benefits - https://busybeesbenefits.com/
-* Finance 4 Businesss - https://www.f4b.biz/
-* Walker Doble - https://www.walkerdoble.com
 
 ### How to reach me
 You can contact me via any of ways below:
